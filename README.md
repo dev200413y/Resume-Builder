@@ -2,9 +2,7 @@
 
 ## Resume Builder Website: Resume Craftify
 
-## Developed By: The VRS Codes
-
-### I am excited to introduce Resume Craftify, a dynamic and user-friendly Resume Builder website, meticulously crafted with a combination of HTML, CSS, and JavaScript. Developed by The VRS Codes, this platform leverages Bootstrap's powerful development tools to provide users with an intuitive experience in creating and customizing their professional resumes effortlessly.
+### I am excited to introduce Resume Craftify, a dynamic and user-friendly Resume Builder website, meticulously crafted with a combination of HTML, CSS, and JavaScript. this platform leverages Bootstrap's powerful development tools to provide users with an intuitive experience in creating and customizing their professional resumes effortlessly.
 
 ## Key Features:
 
